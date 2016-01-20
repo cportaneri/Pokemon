@@ -17,10 +17,13 @@ FMOD for Sound
 
 --- HOW TO LAUNCH THE GAME ---
 We recommand you tu use CodeBlocks on Windows 
---> Install SDL library with these tutorials : http://wiki.codeblocks.org/index.php/Using_SDL_with_Code::Blocks (EN)
+
+1) Install SDL library with these tutorials : http://wiki.codeblocks.org/index.php/Using_SDL_with_Code::Blocks (EN)
 					       http://loka.developpez.com/tutoriel/sdl/installation/codeblocks/ (FR)
---> Same for FMOD : https://openclassrooms.com/courses/apprenez-a-programmer-en-c/jouer-du-son-avec-fmod (FR)
---> Lauch the game with CodeBlocks
+
+2) Same for FMOD : https://openclassrooms.com/courses/apprenez-a-programmer-en-c/jouer-du-son-avec-fmod (FR)
+
+3) Lauch the game with CodeBlocks
 
 --- IMPROVEMENT ---
 Back in 2013, it was our very first big coding project and we just
