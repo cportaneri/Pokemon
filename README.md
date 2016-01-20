@@ -31,7 +31,7 @@ start learning C. With only a month to do it, the quality of the code is quite b
 Now that I am a 5th year student I see many things wrong with this code.
   - A lot of repetition
   - Use of direct integer values --> static code
-  - More comments
+  - Need more comments
   - Which leads to a really bad scalability, hard to extend some map or image
 
 Thus I will improve the quality of this code in the futur.
