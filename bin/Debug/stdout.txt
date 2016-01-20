@@ -1,0 +1,3 @@
+rand in sdl: 6
+rand in sdl: 5
+rand in sdl: 3

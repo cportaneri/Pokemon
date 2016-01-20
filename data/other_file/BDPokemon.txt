@@ -1,0 +1,9 @@
+BULBIZARRE 1 2 45 49 49 65 65 45 Charge 3 35 35 0 100 Fouet-Lianes 2 35 10 0 100 Lance-Soleil 2 120 10 1 100 Tranch'Herbe 2 55 25 0 95
+ SALAMECHE 2 1 39 52 43 60 40 65 Griffe 3 40 35 0 100 Flammeche 1 40 25 1 100 Lance-Flamme 1 95 15 1 100 Tranche 3 70 20 0 100 
+CARAPUCE 3 0 44 48 65 50 64 43 Charge 3 35 35 0 100 Hydrocanon 0 110 5 1 80  Pistolet-a-O 0 40 25 1 100 Force 3 80 15 0 100 
+CHENIPAN 4 2 45 30 35 20 20 45 Charge 3 35 35 0 100 Fouet-Lianes 2 35 10 0 100 Double-Dard 2 50 20 0 100 Coud'Krane 3 100 15 0 100 
+NIDORAN 5 2 46 57 40 40 40 50 Picpic 3 35 35 0 100 Koud'Korne 3 65 25 0 100 Empal'Korne 3 200 5 0 50 Dard-Venin 2 20 35 0 100 
+GOUPIX 6 1 38 41 40 50 65 65 Flammeche 1 40 25 1 100 Lance-Flamme 1 95 15 1 100 Deflagration 1 120 5 1 85 Vive-Attaque 3 40 30 0 100
+ RONDOUDOU 7 3 115 45 20 45 25 20 Ecras'Face 3 40 35 0 100 Plaquage 3 85 15 0 100 Damocles 3 120 15 0 100 Force 3 80 15 0 100
+ TAUPIQUEUR 8 3 10 55 25 35 45 95 Griffe 3 40 35 0 100 Tranche 3 70 20 0 100 Force 3 80 15 0 100 Coupe 3 50 30 0 95 
+MEWTWO 9 3 106 110 90 154 90 130 Deflagration 1 120 5 1 85 Hydrocanon 0 110 5 1 80 Lance-Soleil 2 120 10 1 100 Force 3 80 15 0 100

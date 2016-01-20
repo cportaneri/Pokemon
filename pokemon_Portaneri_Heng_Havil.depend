@@ -1,0 +1,302 @@
+# depslib dependency file v1.0
+1385316856 source:c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326110994 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\begin_code.h
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\close_code.h
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\cedric\documents\et3\c\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1391290072 source:c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\attack.c
+	<stdlib.h>
+	<stdio.h>
+	"attack.h"
+	<string.h>
+
+1391305650 c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\attack.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1453301470 source:c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\game.c
+	"game.h"
+
+1391302870 c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\game.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<FMOD/fmod.h>
+	"square.h"
+	"npc.h"
+	"hero.h"
+
+1390699090 c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\square.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1391288238 c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\npc.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1391623586 c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\hero.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"pokemon.h"
+	"objet.h"
+
+1391305660 c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\pokemon.h
+	<stdlib.h>
+	<stdio.h>
+	"attack.h"
+	<string.h>
+	<time.h>
+
+1391288240 c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\objet.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1391649984 source:c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\hero.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"hero.h"
+
+1453301006 source:c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL/SDL.h>
+	"sdl.h"
+
+1391644948 c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\sdl.h
+	<SDL/SDL.h>
+	"game.h"
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+
+1390820250 source:c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\npc.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"npc.h"
+
+1391120802 source:c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\objet.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"objet.h"
+
+1391288270 source:c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\pokemon.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"pokemon.h"
+
+1453309227 source:c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\sdl.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	"sdl.h"
+	<SDL/SDL.h>
+	<unistd.h>
+	<windows.h>
+	<FMOD/fmod.h>
+
+1390738892 source:c:\users\cedric\documents\et3\c\pokemon_portaneri_heng_havil\src\square.c
+	<stdio.h>
+	<stdlib.h>
+	"square.h"
+
